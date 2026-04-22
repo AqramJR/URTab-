@@ -1,3 +1,4 @@
+[Use Version 2](https://github.com/AqramJR/URtab-v2)
 # URTab: A Customizable New Tab Page for Brave/Chrome Browser
 
 URTab is a modern, highly customizable new tab page extension that transforms your browsing experience with a clean, minimalist design and powerful features.
